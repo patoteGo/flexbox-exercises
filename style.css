@@ -1,0 +1,36 @@
+.container {
+	max-width: 1366px;
+	margin: auto;
+}
+
+.pai, .pai2, .pai3, .pai4 {
+	min-width: 400px;
+	min-height: 400px;
+	margin: 10px;
+}
+.pai{
+	background-color: aquamarine;
+}
+.pai2{
+	background-color:chocolate;
+}
+.pai3{
+	background-color:darkgreen;
+}
+.pai4{
+	background-color:cyan;
+}
+
+.filhio, .filhio2, .filhio3, .filio4 {
+	background-color: blueviolet;
+	min-width: 200px;
+	min-height: 200px;
+	margin: 10px;
+}
+
+.neto, .neto2, .neto4 {
+	background-color: red;
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
